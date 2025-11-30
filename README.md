@@ -11,4 +11,4 @@ Một ứng dụng web đơn giản viết bằng Golang, cho phép người dù
 ## Cài đặt và Chạy
 Clone dự án về máy:
    ```bash
-   git clone [https://github.com/username-cua-ban/ten-repo.git](https://github.com/username-cua-ban/ten-repo.git)
+   git clone https://github.com/Hoale66P1/simple-go-guestbook.git
