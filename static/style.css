@@ -1,0 +1,37 @@
+/* Thêm vào cuối file css cũ */
+.message-list {
+    margin-top: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.message-item {
+    background: #f8f9fa;
+    border-left: 5px solid #007d9c;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.message-item strong {
+    color: #2c3e50;
+    display: block;
+    margin-bottom: 5px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    resize: vertical; /* Cho phép kéo giãn chiều cao */
+}
+
+/* Thêm vào cuối file css */
+.timestamp {
+    font-size: 0.85rem;
+    color: #888;
+    margin-left: 10px;
+    font-weight: normal;
+}
